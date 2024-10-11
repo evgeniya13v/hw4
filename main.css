@@ -1,0 +1,15 @@
+th {
+    border: 1px solid grey;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+padding: 10px 10px;
+}
+
+.top {
+vertical-align: top;
+}
